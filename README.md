@@ -1,2 +1,3 @@
 # Minesweeper
 
+![image](image.png)
